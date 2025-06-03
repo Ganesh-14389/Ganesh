@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/Ganesh/', // Make sure this matches your GitHub repo name
+  // base: '/Ganesh/', // Make sure this matches your GitHub repo name
 })
